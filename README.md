@@ -15,7 +15,7 @@
 ## Overview
 
 ### Screenshot
-<img src="./Desktop_version.png">
+<img src="./desktop_version.png">
 
 ### Links
 - Solução: (https://github.com/otiagogf/qr-code-component/)
@@ -31,11 +31,9 @@
 ### O que aprendi?
 
 ```css 
-
 ``` 
 
 ### Desenvolvimento contínuo
-
 
 ## Autor 
 - Frontend Mentor - [Challenge HUB](https://www.figma.com/file/WwbNODiHJvGodLD2LdTbYY/QR-code-component---Challenge-Frontend-Mentor-(Community)?type=design&node-id=0%3A1&mode=design&t=IwY1KZJlGH2CHoL7-1)
