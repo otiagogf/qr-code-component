@@ -1,4 +1,4 @@
-# Qr Code Component 
+# Qr Code Component
 
 ### This is the implemented solution to the challenge [QR-Code Component - Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) beginner level, to improve skills and knowledge.
 
@@ -59,6 +59,7 @@
 ```
 
 ### Continuous development
+#### I used the native github tool, which is github pages where in the [links](#links) section you will find the path to the active page.
 
 ## Autor 
 - Github - [Github](https://github.com/otiagogf)
