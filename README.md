@@ -15,7 +15,7 @@
 ## Overview
 
 ### Screenshot
-<img src="/desktop_version.png">
+<img src="/Desktop_version.png">
 
 ### Links
 - Solução: (https://github.com/otiagogf/qr-code-component/)
